@@ -10,7 +10,7 @@ namespace NunitPractice
         }
 
         [Test]
-        public void Test1()
+        public void Test1_ShiyamUpdated()
         {
             Assert.Pass();
         }
